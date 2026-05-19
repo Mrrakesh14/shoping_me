@@ -18,31 +18,7 @@ An **Online Clothing Store** is a web application that allows users to browse, s
 - **Payment Gateway:** Stripe / PayPal  
 - **Hosting:** Vercel, Netlify, or AWS  
 
-## 🚀 Setup & Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/online-clothing-store.git
-   cd online-clothing-store
-   ```  
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```  
-3. Configure environment variables in `.env` file  
-4. Start the development server:  
-   ```bash
-   npm start
-   ```  
-5. Access the app at `http://localhost:3000/`
 
-
-## 🏗 Future Enhancements  
-- Wishlist feature  
-- AI-based personalized recommendations  
-- Multi-vendor marketplace  
-
-## 📜 License  
-This project is licensed under the **MIT License**.
 
 👥 **Contributors Welcome!** Feel free to fork, contribute, and submit pull requests.  
 
